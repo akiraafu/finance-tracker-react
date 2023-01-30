@@ -1,4 +1,3 @@
-import { act } from "@testing-library/react";
 import { createContext, useEffect, useReducer } from "react";
 import { projectAuth } from "../firebase/config";
 
