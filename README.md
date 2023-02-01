@@ -9,6 +9,13 @@ Users should be able to:
 - See the list of transaction after successfully add it
 - delete transaction if they need to
 - Transactions are protected from backend, so only the author can read and write transacrions
+- Feel free to use demo accounts play around:
+  account 1
+  email: cat@cat.com
+  password: 123456
+  account 2
+  email: pig@pig.com
+  password: 1234567
 
 ### Links
 
